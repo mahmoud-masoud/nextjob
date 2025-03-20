@@ -1,51 +1,28 @@
 import { SparklesIcon } from 'lucide-react';
 import { useRef } from 'react';
-import { useMutation } from '@tanstack/react-query';
-
-const enhanceWithAI = async (inputData) => {
-  const API_URL =
-    'https://find-work-using-ai-main-pymnbx.laravel.cloud/api/enhance';
-
-  const response = await fetch(API_URL, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      text: inputData,
-      section: 'summary',
-    }),
-  });
-
-  if (!response.ok) {
-    throw new Error('Network response was not ok');
-  }
-
-  return response.json();
-};
+import useAIEnhancer from '@/hooks/useAiEnhancer';
 
 const SummaryStep = ({ register, errors, getValues, setValue }) => {
   const summaryRef = useRef(null);
-  const { mutate, isPending, isError, error, isSuccess } = useMutation({
-    mutationFn: enhanceWithAI,
-    onSuccess: (response) => {
-      console.log('Success:', response);
-      const enhancedText = response?.data;
-
-      setValue('summary', enhancedText);
-    },
-    onError: (error) => {
-      console.error('Error:', error);
-    },
-  });
+  const { mutate, isPending, isError, error, isSuccess } = useAIEnhancer();
 
   const handleSubmit = () => {
     const summaryValue = getValues('summary');
     if (summaryValue.trim()) {
-      mutate(summaryValue);
+      mutate(
+        { text: summaryValue, section: 'summary' },
+        {
+          onSuccess: (response) => {
+            console.log('Success:', response);
+            setValue('summary', response?.data);
+          },
+          onError: (error) => {
+            console.error('Error:', error);
+          },
+        }
+      );
     }
   };
-
   return (
     <div className='space-y-4'>
       <div>

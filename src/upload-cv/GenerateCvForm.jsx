@@ -166,11 +166,19 @@ const GenerateCVForm = () => {
             register={register}
             errors={errors}
             control={control}
+            getValues={getValues}
+            setValue={setValue}
           />
         );
       case 4:
         return (
-          <ProjectsStep register={register} errors={errors} control={control} />
+          <ProjectsStep
+            register={register}
+            errors={errors}
+            control={control}
+            getValues={getValues}
+            setValue={setValue}
+          />
         );
       case 5:
         return <SkillsLanguagesStep register={register} errors={errors} />;

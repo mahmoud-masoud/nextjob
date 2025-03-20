@@ -1,11 +1,37 @@
-import { Trash2Icon } from 'lucide-react';
+import { Trash2Icon, SparklesIcon } from 'lucide-react';
 import { useFieldArray } from 'react-hook-form';
+import { useRef } from 'react';
+import useAIEnhancer from '@/hooks/useAiEnhancer';
 
-const ProjectsStep = ({ register, errors, control }) => {
+const ProjectsStep = ({ register, errors, control, getValues, setValue }) => {
   const { fields, append, remove } = useFieldArray({
     control,
     name: 'projects',
   });
+
+  const descriptionRefs = useRef([]);
+  const { mutate, isPending } = useAIEnhancer();
+
+  const handleEnhance = (index) => {
+    const projectDescription = getValues(`projects[${index}].description`);
+
+    if (projectDescription.trim()) {
+      mutate(
+        {
+          text: projectDescription,
+          section: 'project',
+        },
+        {
+          onSuccess: (response) => {
+            setValue(`projects[${index}].description`, response?.data);
+          },
+          onError: (error) => {
+            console.error('Error enhancing project description:', error);
+          },
+        }
+      );
+    }
+  };
 
   return (
     <div className='space-y-4'>
@@ -14,16 +40,17 @@ const ProjectsStep = ({ register, errors, control }) => {
           key={field.id}
           className='space-y-4 border border-border-color p-4 rounded-md'
         >
-          <div className='flex justify-between'>
+          <div className='flex justify-between items-center w-full'>
             <h3 className='text-lg font-semibold'>Project {index + 1}</h3>
-            <button
-              type='button'
-              onClick={() => remove(index)}
-              className='text-red-300 hover:text-red-400 p-2 rounded-md
-             hover:bg-gray-400/30'
-            >
-              <Trash2Icon className='size-4' />
-            </button>
+            <div className='flex items-center gap-2'>
+              <button
+                type='button'
+                onClick={() => remove(index)}
+                className='text-red-300 hover:text-red-400 p-2 rounded-md hover:bg-gray-400/30'
+              >
+                <Trash2Icon className='size-4' />
+              </button>
+            </div>
           </div>
           <div>
             <label className='block text-sm font-medium text-gray-300 mb-2'>
@@ -44,10 +71,34 @@ const ProjectsStep = ({ register, errors, control }) => {
             )}
           </div>
           <div>
-            <label className='block text-sm font-medium text-gray-300 mb-2'>
-              Description
-            </label>
+            <div className='flex justify-between items-center'>
+              <label className='block text-sm font-medium text-gray-300 mb-2'>
+                Description
+              </label>
+              <button
+                type='button'
+                onClick={() => handleEnhance(index)}
+                className={`group text-emerald-400 text-sm font-semibold flex items-center gap-1 hover:gap-2
+                  p-2 hover:bg-gray-300/10 duration-200 rounded-md
+                  ${isPending ? 'animate-pulse opacity-75' : ''}`}
+                disabled={isPending}
+              >
+                <SparklesIcon
+                  className={`size-4 duration-200 ${
+                    isPending ? 'animate-ping text-emerald-300' : ''
+                  }`}
+                />
+                <span
+                  className={`transition-all duration-200 ${
+                    isPending ? 'text-emerald-300 animate-glow' : ''
+                  }`}
+                >
+                  {isPending ? 'Enhancing...' : 'Enhance with AI'}
+                </span>
+              </button>
+            </div>
             <textarea
+              ref={(el) => (descriptionRefs.current[index] = el)}
               {...register(`projects[${index}].description`, {
                 required: 'Description is required',
               })}
@@ -74,4 +125,5 @@ const ProjectsStep = ({ register, errors, control }) => {
     </div>
   );
 };
+
 export default ProjectsStep;
