@@ -1,0 +1,51 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #20b486;
+  --color-primary-on-hover: #1a9972;
+  --color-background: #112240;
+  --color-foreground: #2636528c;
+  --color-form-foreground: #1f304da1;
+  --color-border-color: #184f78;
+  --color-form-input-border: #5a7aaa;
+  --color-text: #fff;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+@layer utilities {
+  .glass {
+    @apply backdrop-blur-md bg-white/5 border border-white/10 shadow-md;
+  }
+
+  .glass-dark {
+    @apply backdrop-blur-md bg-blue-950/40 border border-blue-700/30 shadow-md;
+  }
+
+  .blur-backdrop {
+    @apply backdrop-blur-xl bg-black/40 border border-white/10;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .perspective {
+    perspective: 1000px;
+  }
+
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  .section-padding {
+    @apply py-20 md:py-28 px-6 sm:px-8 md:px-12;
+  }
+
+  .max-container {
+    @apply max-w-7xl mx-auto;
+  }
+}

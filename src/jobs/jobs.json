@@ -1,0 +1,908 @@
+{
+  "data": [
+    {
+      "job_id": "LE9LAYnT8_degy5wAAAAAA==",
+      "job_title": "Marketing Web Developer (Vue and Typescript)",
+      "employer_name": "Jackbox Games",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDiCwlG479fmm19R_LyTo3EjdHX0EWkRBRSUQ&s=0",
+      "employer_website": "https://www.jackboxgames.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Part-time",
+      "job_employment_types": ["PARTTIME"],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/marketing-web-developer-vue-and-typescript-at-jackbox-games-4188259184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/marketing-web-developer-vue-and-typescript-at-jackbox-games-4188259184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "GameJobs.co",
+          "apply_link": "https://gamejobs.co/Marketing-Web-Developer-Vue-and-Typescript-at-Jackbox-Games?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/2275105683169961029?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Media Bistro",
+          "apply_link": "https://www.mediabistro.com/jobs/848716849-marketing-web-developer-vue-and-typescript?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/marketing-web-developer-vue-typescript-jobs/A001362E73A0AB86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruiter Jobs",
+          "apply_link": "https://jobs.recruiter.com/jobs/17739892013-marketing-web-developer-vue-and-typescript?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido.com",
+          "apply_link": "https://us.jobrapido.com/jobpreview/491272038787317760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Jackbox Games is looking for a part-time Website Developer Contractor to join our team! We anticipate 30-40 hours per week for 3 months with a possible option to extend 3 months based on workload.\n\nPlease note: We offer remote work in the following states: California, Florida, Illinois, Indiana, Massachusetts, Michigan, New York, Ohio, Pennsylvania, Texas, Vermont, Washington, and Wisconsin.\n\nWho are We?\n\nJackbox is a game studio best known for our Jackbox Party Pack franchise: a set of five social party games released every fall. Since 2014, our games--like Quiplash, Drawful, and Trivia Murder Party-- have been featured on The Tonight Show with Jimmy Fallon, by Polygon, and in living rooms and finished basements across the world.\n\nIn 2020, we had over 200 million users. And we have hard evidence that one of those users was Academy Award-winner Charlize Theron.\n\nYou can learn everything you ever wanted to know about how our games work (spoiler: your phone is the controller!) and who we are and what we make at jackboxgames.com.\n\nWhat’s the gig?\n\nOur website is a vital hub for our marketing team that allows us to educate and provide support to our players while also promoting and selling our vast catalog of party games. Millions of visitors stop by our site each year and it’s imperative that we keep the site running smoothly and find new ways to optimize based on visitor behavior.\n\nIt’s also an eCommerce platform for us through which we can sell codes for our titles while advertising promotions in other console storefronts. This means that we also need to review updates to the site frequently to stay nimble based on how changes are impacting customers.\n\nWe are looking for a web developer to execute on tasks and projects from our marketing team. We have a ton of ideas and improvements and need someone with a sharp eye toward marketing trends to clear out the backlog.\n\nHourly rate: $69 - $75\n\nSome Things In The Backlog\n• Develop, optimize, and maintain the marketing website using Vue.js and TypeScript\n• Implement A/B tests and multivariate experiments to improve conversion rates\n• Optimize SEO performance (structured data, metadata, Core Web Vitals, etc.)\n• Improve site speed, performance, and accessibility\n• Work closely with marketing, UX/UI designers, and analytics to enhance engagement and conversions\n• Implement tracking scripts, analytics, and marketing pixels (Google Tag Manager, Google Analytics, Facebook Pixel, etc.)\n• Ensure the site is cross-browser compatible and mobile-friendly\n• Develop new pages showcasing product launches or promotions\n• Troubleshoot issues and continuously improve UX and UI based on analytics data\n• Stay up-to-date with the latest SEO, conversion rate optimization (CRO), and front-end performance trends\n\nIdeal Contractors Will Have...\n• 3+ years of experience in front-end development\n• Strong proficiency in Vue.js (Vue 3 preferred) and TypeScript\n• Experience with A/B testing frameworks (Google Optimize, Optimizely, VWO, etc.)\n• Strong understanding of SEO best practices and Core Web Vitals optimization\n• Experience improving conversion rates and user engagement metrics\n• Proficiency in HTML5, CSS3 and JavaScript (ES6+)\n• Experience integrating and managing tracking scripts and analytics (Google Analytics, GTM, Facebook Pixel, etc.)\n• Familiarity with headless CMS solutions like Contentful, Sanity, or Strapi\n• Strong debugging and troubleshooting skills using browser dev tools\n• Experience with Git/GitHub workflows and agile development methodologies\n• Experience with Nuxt.js for server-side generation (SSG)\n• Familiarity with heatmap and behavior tracking tools (Hotjar, Crazy Egg, FullStory)\n• Knowledge of progressive enhancement techniques for SEO and accessibility\n• Experience with CRO tools and methodologies for marketing sites\n\nRequirements\n\nIdeal candidates will align with our following values:\n• Craft: the skills, effort, and wisdom it takes to excel in the work we do\n• Results: focusing our efforts to deliver value to the company and those who play our games\n• Teamwork: Making the most of our combined talents to achieve our goals\n• Communication: The respectful exchange of information in order to minimize misunderstandings, confusion, and other pitfalls of working in a group\n• Agility: Moving quickly with clarity and coordination to a shared destination\n• Inclusion: Seeking out, respecting, and appreciating diversity in both our organization and our customers.\n\nJackbox Games is a group effort and you must work collaboratively. Everyone here shares a commitment to excellence and a desire to work in a comfortable, friendly atmosphere.\n\nJackbox Games is committed to providing employment opportunities without regard to race, color, religion, creed, sex, pregnancy, sexual orientation, gender identity, genetic information, national origin, ancestry, age, veteran status, or disability.\n\nInterested?\n\nGreat, we look forward to reading your application. Please include:\n• Your resume.\n• A cover letter. You don't need to be a professional writer for this job (we have those) but we would love to hear about your background. Please tell us a bit about yourself and what interests you about the work above.\n\nWe know it is a time commitment to prepare an application and we respect that effort by thoughtfully reviewing every complete application and responding one way or the other. But that kind of thoughtful review means that it sometimes takes us a while to get back to applicants, so please be patient with us and no phone calls.\n\nDue to scheduling and other logistics, we are looking for applicants living within the United States.\n\nThanks for your interest in Jackbox Games!",
+      "job_is_remote": false,
+      "job_posted_at": "1 day ago",
+      "job_posted_at_timestamp": 1742256000,
+      "job_posted_at_datetime_utc": "2025-03-18T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLE9LAYnT8_degy5wAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "We are looking for a web developer to execute on tasks and projects from our marketing team",
+          "We have a ton of ideas and improvements and need someone with a sharp eye toward marketing trends to clear out the backlog",
+          "3+ years of experience in front-end development",
+          "Experience with A/B testing frameworks (Google Optimize, Optimizely, VWO, etc.)",
+          "Strong understanding of SEO best practices and Core Web Vitals optimization",
+          "Experience improving conversion rates and user engagement metrics",
+          "Proficiency in HTML5, CSS3 and JavaScript (ES6+)",
+          "Experience integrating and managing tracking scripts and analytics (Google Analytics, GTM, Facebook Pixel, etc.)",
+          "Familiarity with headless CMS solutions like Contentful, Sanity, or Strapi",
+          "Strong debugging and troubleshooting skills using browser dev tools",
+          "Experience with Git/GitHub workflows and agile development methodologies",
+          "Experience with Nuxt.js for server-side generation (SSG)",
+          "Familiarity with heatmap and behavior tracking tools (Hotjar, Crazy Egg, FullStory)",
+          "Knowledge of progressive enhancement techniques for SEO and accessibility",
+          "Experience with CRO tools and methodologies for marketing sites",
+          "Craft: the skills, effort, and wisdom it takes to excel in the work we do",
+          "Communication: The respectful exchange of information in order to minimize misunderstandings, confusion, and other pitfalls of working in a group",
+          "Agility: Moving quickly with clarity and coordination to a shared destination",
+          "Inclusion: Seeking out, respecting, and appreciating diversity in both our organization and our customers"
+        ],
+        "Benefits": ["Hourly rate: $69 - $75"],
+        "Responsibilities": [
+          "This means that we also need to review updates to the site frequently to stay nimble based on how changes are impacting customers",
+          "Develop, optimize, and maintain the marketing website using Vue.js and TypeScript",
+          "Implement A/B tests and multivariate experiments to improve conversion rates",
+          "Optimize SEO performance (structured data, metadata, Core Web Vitals, etc.)",
+          "Improve site speed, performance, and accessibility",
+          "Work closely with marketing, UX/UI designers, and analytics to enhance engagement and conversions",
+          "Implement tracking scripts, analytics, and marketing pixels (Google Tag Manager, Google Analytics, Facebook Pixel, etc.)",
+          "Ensure the site is cross-browser compatible and mobile-friendly",
+          "Develop new pages showcasing product launches or promotions",
+          "Troubleshoot issues and continuously improve UX and UI based on analytics data",
+          "Stay up-to-date with the latest SEO, conversion rate optimization (CRO), and front-end performance trends",
+          "Ideal Contractors Will Have.."
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "HQZQqH0S6C5DTHAZAAAAAA==",
+      "job_title": "Front End Developer (contract)",
+      "employer_name": "Northern Trust",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtQi92HLnB1zfWFugJlAjz6WIGME5hZwTp5Hb&s=0",
+      "employer_website": "https://www.northerntrust.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Contractor",
+      "job_employment_types": ["CONTRACTOR", "CONTRACTOR"],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/front-end-developer-contract-at-northern-trust-4187474236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/front-end-developer-contract-at-northern-trust-4187474236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/db45c14042005db28923db43f7cf9ec9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/front-end-developer-chicago_b6332d88-51a0-4fd0-951b-75bcef1e92ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/2036180878959711772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/chicago/illinois/info_technology/4013179165/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/veeva-front-end-developer-jobs/F50980878BAFC9E4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Trabajo.org",
+          "apply_link": "https://us.trabajo.org/job-2951-af2ac6a2bd1b0124592b5ec2d62afa3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruiter Jobs",
+          "apply_link": "https://jobs.recruiter.com/jobs/10645611677-veeva-front-end-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Front End Engineer, Design System\n\nProject Overview: Experience Design & Research is a multidisciplinary design and research team dedicated to delivering innovative, differentiated, and exceptional experiences for clients, prospects, and partners by demonstrating a deep understanding of their needs. Experience Design & Research is committed to growing and supporting a diverse team, with a collaborative environment that provides educational and career growth opportunities.\n\nRole: As a Front End Engineer in our Design System team, contractor will side by side with design and product teams to build frontend experiences. They work will elevate our digital experiences through compelling prototypes, patterns, and components that empower our partners and clients. A detail-oriented systems thinker, they can see tough challenges from multiple perspectives and uncover the technical solutions to solve design and business needs.\n\nExperience Level: Mid to Senior (2+ Years of Experience)\n\nQualifications:\n• A minimum of two years of front-end UI development experience, writing semantic HTML, CSS, ES6 JavaScript and Typescript\n• Strong knowledge on Typescript and React framework\n• Strong knowledge on CSS frameworks and CSS processors\n• Demonstrate deep understanding and advocacy on software engineering best practices\n• Proven experience on writing unit test and Test Driven Development\n• Experience with debugging and browser performance optimization\n• Experience using GIT and source control workflows with multiple contributors\n• Experience with Node, Webpack, and NPM libraries\n• Practical understanding of accessibility standards and WCAG 2.1 compliance\n• Attention to detail, having a sense of design and layout\n• Excellent verbal and written communication skills (the ability to effectively sell an idea)\n• Ability to manage time wisely given competing priorities, meet agreed upon deadlines, and be accountable for work\n• Experience in working with a cross-functional team or large-scale software development lifecycle, including waterfall and (more importantly) agile methodologies\n• Work portfolio (applications, code samples) that demonstrates systematic and creative development thinking as well as a deep understanding of UI development best practices\n\nNice to Haves:\n• Past experience working in a design system team\n• Experience with end-to-end testing\n• Experience with mobile device testing frameworks\n\nTasks & Responsibilities:\n• Develops reusable/configurable components in React and Typescript\n• Contributes back to our design system in the form of components, documentation, best practices, and supports.\n• Exhibits deep understanding of HTML, CSS, and JavaScript/Typescript to help support implementation team with best practices\n• Contributes to an open culture that enables development through direct but kind feedback, promotes diverse perspectives and fosters a sense of curiosity and optimism.\n• Manages expectations and deliver effective, efficient, and thoughtful technical solutions.\n• Collaborates and communicate professionally with designers, product owners and architects to understand technical needs and user requirements while effectively communicating the complexity, intent, and specifications of development tasks\n\nPay Rate Range\n\nMin Pay Rate Max Pay Rate Currency Unit 65 75 USD hourly\n\nAdditional Notes\n\nThe above listed pay range is a good faith estimate of what the employer reasonably expects to pay for this position.\n\nBenefits Information\n\nOptional benefits offering includes medical, dental, vision and retirement benefits via Hiregenics.",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1742169600,
+      "job_posted_at_datetime_utc": "2025-03-17T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": ["health_insurance", "dental_coverage"],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHQZQqH0S6C5DTHAZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "A detail-oriented systems thinker, they can see tough challenges from multiple perspectives and uncover the technical solutions to solve design and business needs",
+          "Experience Level: Mid to Senior (2+ Years of Experience)",
+          "A minimum of two years of front-end UI development experience, writing semantic HTML, CSS, ES6 JavaScript and Typescript",
+          "Strong knowledge on Typescript and React framework",
+          "Strong knowledge on CSS frameworks and CSS processors",
+          "Demonstrate deep understanding and advocacy on software engineering best practices",
+          "Proven experience on writing unit test and Test Driven Development",
+          "Experience with debugging and browser performance optimization",
+          "Experience using GIT and source control workflows with multiple contributors",
+          "Experience with Node, Webpack, and NPM libraries",
+          "Practical understanding of accessibility standards and WCAG 2.1 compliance",
+          "Attention to detail, having a sense of design and layout",
+          "Excellent verbal and written communication skills (the ability to effectively sell an idea)",
+          "Ability to manage time wisely given competing priorities, meet agreed upon deadlines, and be accountable for work",
+          "Experience in working with a cross-functional team or large-scale software development lifecycle, including waterfall and (more importantly) agile methodologies",
+          "Work portfolio (applications, code samples) that demonstrates systematic and creative development thinking as well as a deep understanding of UI development best practices",
+          "Past experience working in a design system team",
+          "Experience with end-to-end testing",
+          "Experience with mobile device testing frameworks"
+        ],
+        "Benefits": [
+          "Min Pay Rate Max Pay Rate Currency Unit 65 75 USD hourly",
+          "The above listed pay range is a good faith estimate of what the employer reasonably expects to pay for this position",
+          "Optional benefits offering includes medical, dental, vision and retirement benefits via Hiregenics"
+        ],
+        "Responsibilities": [
+          "Role: As a Front End Engineer in our Design System team, contractor will side by side with design and product teams to build frontend experiences",
+          "They work will elevate our digital experiences through compelling prototypes, patterns, and components that empower our partners and clients",
+          "Develops reusable/configurable components in React and Typescript",
+          "Contributes back to our design system in the form of components, documentation, best practices, and supports",
+          "Exhibits deep understanding of HTML, CSS, and JavaScript/Typescript to help support implementation team with best practices",
+          "Contributes to an open culture that enables development through direct but kind feedback, promotes diverse perspectives and fosters a sense of curiosity and optimism",
+          "Manages expectations and deliver effective, efficient, and thoughtful technical solutions",
+          "Collaborates and communicate professionally with designers, product owners and architects to understand technical needs and user requirements while effectively communicating the complexity, intent, and specifications of development tasks"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "vfoYGoKJnwnQy_r-AAAAAA==",
+      "job_title": "Software Developers",
+      "employer_name": "NW Healthcare Corporation",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "Northwestern Medicine",
+      "job_employment_type": "Full-time",
+      "job_employment_types": ["FULLTIME"],
+      "job_apply_link": "https://jobs.nm.org/job/chicago/software-developers/27763/78857238992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Northwestern Medicine",
+          "apply_link": "https://jobs.nm.org/job/chicago/software-developers/27763/78857238992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SmartRecruiters Job Search",
+          "apply_link": "https://jobs.smartrecruiters.com/northwesternmedicine/744000048330252-software-developers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/software-developers-at-northwestern-medicine-4188713403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Northwestern-Medicine/Job/Software-Developers/-in-Chicago,IL?jid=35c45bbb3babc2b7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/software-developers_c1f610ab-f63b-428a-b447-26304c39ea02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/software-developers-northwestern-memorial-healthca-6487119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/-5663642485818870148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/software-developers-chicago-illinois-us-northwestern-memorial-healthcare-ref78177r?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Description\n\nThe Software Developer, reflects the mission, vision, and values of NM, adheres to the organization’s Code of Ethics and Corporate Compliance Program, and complies with all relevant policies, procedures, guidelines and all other regulatory and accreditation standards.\n\nNorthwestern Medicine Information Services drives innovative, high-value solutions to transform health care.\n\nWe are committed to supporting the relentless pursuit of better medicine by providing exceptional service to our patients and guests as well as internal clients across the organization. To ensure excellence, our team goes to extraordinary lengths to ensure that our systems work together seamlessly.\n\nNorthwestern Medicine understands that technology plays an integral role in shaping the future of health care. Information Services strategically supports the organization by:\n• Leveraging AI, automation and rollout of advanced cyber controls that support digital transformation strategies\n• Implementing advanced technologies in clinical and administrative areas\n• Furthering development of the end user support model to help enhance modern infrastructure\n\nJob Description\n\nSoftware Developers for various and unanticipated worksites (HQ: Chicago, IL). Develop software solutions by studying information needs, conferring with users, studying systems flow, data usage and work processes. Participate in Agile full stack coding and testing. Document and demonstrate solutions by developing documentation. Perform code reviews. Technical environment: Azure, Asp.Net, C#, Sitecore9, VisualStudio, .NET Framework, .NET Core, Web API, LINQ, JavaScript, JQuery, AngularJS, CSS, MS-SQL Server (with query optimization), TFS, Git, CI/CD, SOA.\n\nRequired Skills:\n\nBachelor’s degree in Computer Science, Electronic Engineering or related field plus 3 years of experience in software development required. Requires: 3 years with: full stack software development in Agile; Sitecore. Experience must include: .NET Framework, Web API; JavaScript, JQuery, SQL Server query optimization; AngularJS; Asp.Net, C#, TFS/GIT; CI/CD; SOA. May work remotely with ability to commute to Chicago HQ as needed. Background check and drug screen required. $95,034/yr - $128,296/yr.\n\nJob Reference ID : Req ID: REF78177R\n\nEqual Opportunity\n\nNorthwestern Medicine is an affirmative action/equal opportunity employer and does not discriminate in hiring or employment on the basis of age, sex, race, color, religion, national origin, gender identity, veteran status, disability, sexual orientation or any other protected status.\n\nIf we offer you a job, we will perform a background check that includes a review of any criminal convictions. A conviction does not disqualify you from employment at Northwestern Medicine. We consider this on a case-by-case basis and follow all state and federal guidelines.",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1742083200,
+      "job_posted_at_datetime_utc": "2025-03-16T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvfoYGoKJnwnQy_r-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Technical environment: Azure, Asp.Net, C#, Sitecore9, VisualStudio, .NET Framework, .NET Core, Web API, LINQ, JavaScript, JQuery, AngularJS, CSS, MS-SQL Server (with query optimization), TFS, Git, CI/CD, SOA",
+          "Bachelor’s degree in Computer Science, Electronic Engineering or related field plus 3 years of experience in software development required",
+          "Requires: 3 years with: full stack software development in Agile; Sitecore",
+          "Experience must include: .NET Framework, Web API; JavaScript, JQuery, SQL Server query optimization; AngularJS; Asp.Net, C#, TFS/GIT; CI/CD; SOA",
+          "May work remotely with ability to commute to Chicago HQ as needed",
+          "Background check and drug screen required"
+        ],
+        "Responsibilities": [
+          "Leveraging AI, automation and rollout of advanced cyber controls that support digital transformation strategies",
+          "Implementing advanced technologies in clinical and administrative areas",
+          "Furthering development of the end user support model to help enhance modern infrastructure",
+          "Develop software solutions by studying information needs, conferring with users, studying systems flow, data usage and work processes",
+          "Participate in Agile full stack coding and testing",
+          "Document and demonstrate solutions by developing documentation",
+          "Perform code reviews"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "woj2gE2S_6LqvmLAAAAAAA==",
+      "job_title": "Senior Developer",
+      "employer_name": "United Airlines",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DMswunk7F25_BeXSf2w8JVHG65s4lc7v5wfG&s=0",
+      "employer_website": "https://www.united.com",
+      "job_publisher": "United Airlines Jobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": ["FULLTIME"],
+      "job_apply_link": "https://careers.united.com/us/en/job/WHQ00024243/Senior-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "United Airlines Jobs",
+          "apply_link": "https://careers.united.com/us/en/job/WHQ00024243/Senior-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Careers At WEX",
+          "apply_link": "https://careers.wexinc.com/us/en/job/R15177/Senior-C-NET-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Lever",
+          "apply_link": "https://jobs.lever.co/mhnchicago/80e52262-843c-49b0-9105-6cf852144d9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=ce82d408b0d72e99&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Dayforce",
+          "apply_link": "https://us242.dayforcehcm.com/CandidatePortal/en-US/achn/Posting/View/15759?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "CATS Applicant Tracking System",
+          "apply_link": "https://quantasearch.catsone.com/careers/1547-General/jobs/12819199-Senior-Strategy-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/senior-developer-chicago-il--6d69132d-662d-4b7d-8e1e-c089988bf7b7?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Highland/Job/Senior-Consulting-Developer/-in-Chicago,IL?jid=f429ce56ad6ebada&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Description\n\nFind your future at United! We’re reinventing what our industry looks like, and what an airline can be – from the planes we fly to the people who fly them. When you join us, you’re joining a global team of 100,000+ connected by a shared passion with a wide spectrum of experience and skills to lead the way forward.\n\nAchieving our ambitions starts with supporting yours. Evolve your career and find your next opportunity. Get the care you need with industry-leading health plans and best-in-class programs to support your emotional, physical, and financial wellness. Expand your horizons with travel across the world’s biggest route network. Connect outside your team through employee-led Business Resource Groups.\n\nCreate what’s next with us. Let’s define tomorrow together.\n\nUnited's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob description and responsibilities\n\nThe Senior Software Developer will be responsible for the development of critical applications, while working with a team of developers. This role will design, develop, document, test and debug new and existing applications. Additionally, this role will build these applications with a focus on delivering cloud-based solutions. The individual will use groundbreaking technologies and enterprise grade integration software daily and will be relied upon to help take the team to the next level from a technological standpoint.\n• Manages and participates in full development life cycle including requirements analysis and design using Agile methodologies\n• Hands-on development, and support of software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions\n• Serve as technical guide on development projects\n• Write technical specifications based on conceptual design and stated business requirements\n• Support, maintain and document software functionality\n• Identify and evaluate new technologies for implementation\n• Analyze code to find causes of errors and revise programs as needed\n• Managers and participates in software design meetings and analyze user needs to resolve technical requirements\n• Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as a technology leader\n• Collaborate with end user to prototype, refine, test and debug programs to meet needs\n• Leads the design, development, and planning for solutions and technology standards to solve complex business problems\n• Works with business, support, or development teams recommending system improvements\n• Consults across multiple United Information Technology projects and technology areas to perform fixing, problem management, root-cause analysis, and solution implementation\n• Serves as a resource for technology/project development review and technical assessments\n• Provide consultation and technical leadership in project life cycle planning\n• Ensures consistency and coherence to the enterprise standards and guiding principles throughout the application lifecycle\n\nQualifications\n\nRequired\n• Bachelor's degree\n• Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field\n• 5+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment\n• 5+ years’ experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)\n• Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting\n• Hands-on development and proficient excellence in backend API development using Node.js Java and Python (nice to have)\n• Must be legally authorized to work in the United States for any employer without sponsorship\n• Successful completion of interview required to meet job qualification\n• Reliable, punctual attendance is an essential function of the position\n\nPreferred\n• Airlines industry experience is a plus\n• AWS highly preferred\n\nThe base pay range for this role is $109,820.00 to $149,600.00.\nThe base salary range/hourly rate listed is dependent on job-related, non-discriminatory factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
+      "job_is_remote": false,
+      "job_posted_at": "21 hours ago",
+      "job_posted_at_timestamp": 1742342400,
+      "job_posted_at_datetime_utc": "2025-03-19T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": ["dental_coverage", "health_insurance", "paid_time_off"],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dwoj2gE2S_6LqvmLAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree",
+          "Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field",
+          "5+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment",
+          "5+ years’ experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)",
+          "Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting",
+          "Hands-on development and proficient excellence in backend API development using Node.js Java and Python (nice to have)",
+          "Must be legally authorized to work in the United States for any employer without sponsorship",
+          "Successful completion of interview required to meet job qualification",
+          "Reliable, punctual attendance is an essential function of the position"
+        ],
+        "Benefits": [
+          "Get the care you need with industry-leading health plans and best-in-class programs to support your emotional, physical, and financial wellness",
+          "The base pay range for this role is $109,820.00 to $149,600.00",
+          "The base salary range/hourly rate listed is dependent on job-related, non-discriminatory factors such as experience, education, and skills",
+          "This position is also eligible for bonus and/or long-term incentive compensation awards",
+          "You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges"
+        ],
+        "Responsibilities": [
+          "Expand your horizons with travel across the world’s biggest route network",
+          "The Senior Software Developer will be responsible for the development of critical applications, while working with a team of developers",
+          "This role will design, develop, document, test and debug new and existing applications",
+          "Additionally, this role will build these applications with a focus on delivering cloud-based solutions",
+          "The individual will use groundbreaking technologies and enterprise grade integration software daily and will be relied upon to help take the team to the next level from a technological standpoint",
+          "Manages and participates in full development life cycle including requirements analysis and design using Agile methodologies",
+          "Hands-on development, and support of software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions",
+          "Serve as technical guide on development projects",
+          "Write technical specifications based on conceptual design and stated business requirements",
+          "Support, maintain and document software functionality",
+          "Identify and evaluate new technologies for implementation",
+          "Analyze code to find causes of errors and revise programs as needed",
+          "Managers and participates in software design meetings and analyze user needs to resolve technical requirements",
+          "Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as a technology leader",
+          "Collaborate with end user to prototype, refine, test and debug programs to meet needs",
+          "Leads the design, development, and planning for solutions and technology standards to solve complex business problems",
+          "Works with business, support, or development teams recommending system improvements",
+          "Consults across multiple United Information Technology projects and technology areas to perform fixing, problem management, root-cause analysis, and solution implementation",
+          "Serves as a resource for technology/project development review and technical assessments",
+          "Provide consultation and technical leadership in project life cycle planning",
+          "Ensures consistency and coherence to the enterprise standards and guiding principles throughout the application lifecycle"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "FG8KV3b_oJfrlXxtAAAAAA==",
+      "job_title": "C++ Software Engineer | HFT",
+      "employer_name": "Evolve Group",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4Lr42UXcO4AvMUi8tXXEtP9K0qO1y-XgVeDj&s=0",
+      "employer_website": "https://www.evolvegrp.io",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": ["FULLTIME"],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-hft-at-evolve-group-4185647647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-hft-at-evolve-group-4185647647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/csoftware-engineer-hft-chicago-il--bb7c1930-06ce-4f20-ac41-94c0f3089538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Evolve-Group/Job/C++-Software-Engineer-%7C-HFT/-in-Chicago,IL?jid=89dd826c73d3236a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/c-software-engineer-hft-chicago-illinois/1599668082-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "KSNT Jobs",
+          "apply_link": "https://jobs.ksnt.com/jobs/c-software-engineer-hft-chicago-illinois/1599668082-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "KHON2 Jobs",
+          "apply_link": "https://jobs.khon2.com/jobs/c-software-engineer-hft-chicago-illinois/1599668082-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Star Job Search",
+          "apply_link": "https://starjobsearch.co.uk/jobs/c-software-engineer-hft-chicago-illinois/1599668082-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruiter Jobs",
+          "apply_link": "https://jobs.recruiter.com/jobs/18231759423-c-software-engineer-hft?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "C++ Engineer (HFT - Low Latency)\n\nWorld Leading High-Frequency Trading Firm\n\nChicago\n\n$350,000 - $750,000 total comp\n\nWe're working on behalf of one of the world's leading high frequency trading firms with some of the most sophisticated technical teams and systems in industry who are looking for highly talented C++ Software Engineers in Chicago.\n\nWithin their centralized engineering team, you will work to design, build, implement and optimize highly complex solutions to improve the trading platform performance.\n\nWhether you're currently working in tech, investment banking, or trading this is an opportunity to build on your C++ skills with some of the brightest minds in industry within an environment which encourages autonomy, ownership, and impact.\n\nRequired experience\n• Bachelor's degree or higher in Computer Science, Mathematics or a related field with strong academic performance\n• 2 - 6 years commercial experience working as a C++ developer with a focus on latency and performance\n• Excellent communication skills and the ability to work with cross functional teams\n• Commercial experience working with Linux systems\n• Strong problem-solving skills and the ability to work autonomously in a fast-paced environment",
+      "job_is_remote": false,
+      "job_posted_at": "1 day ago",
+      "job_posted_at_timestamp": 1742256000,
+      "job_posted_at_datetime_utc": "2025-03-18T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFG8KV3b_oJfrlXxtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 200000,
+      "job_max_salary": 350000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree or higher in Computer Science, Mathematics or a related field with strong academic performance",
+          "2 - 6 years commercial experience working as a C++ developer with a focus on latency and performance",
+          "Excellent communication skills and the ability to work with cross functional teams",
+          "Commercial experience working with Linux systems",
+          "Strong problem-solving skills and the ability to work autonomously in a fast-paced environment"
+        ],
+        "Benefits": ["$350,000 - $750,000 total comp"]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "abXhi0fBSL9qCTbVAAAAAA==",
+      "job_title": "Looking for Front-End developer Remote Job :: Local to IL required :: Only USC OR GC !!",
+      "employer_name": "KPG99 INC",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3D06c9__wHo83ckuc0L430G1qRnUyr7Px46kH&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Contractor",
+      "job_employment_types": ["CONTRACTOR", "CONTRACTOR"],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/looking-for-front-end-developer-remote-job-local-to-il-required-only-usc-or-gc-%21%21-at-kpg99-inc-4187415479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/looking-for-front-end-developer-remote-job-local-to-il-required-only-usc-or-gc-%21%21-at-kpg99-inc-4187415479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Front-End developer\n\nRemote Job\n\n6+ Months\n\nVideo call Interview\n\nNote: It would be a plus if they are near Chicago but not required. I will not be happy if you send me a candidate saying they are near Chicago only to find out they are not. 6+ months in duration.\n\nJob Description:\n\nWe are looking for a strong Front-End developer to help us support our application. The candidate must have strong technical skills on Vue.js, CSS, Unit testing, and strong problem-solving skills.\n• How many years of experience do you require?\n\n3 years and above, preferably 5 years.\n• What are the day-to-day activities they will participate in?\n\nJust like developers, design, code, test, and deployment\n• What kids of projects will the contractor work on?\n\nCustomer domains related projects.\n• What other teams will they interact with?\n\nMost likely the developer will interact with other FE developers.\n• What other tools will they use and/or need to know?\n\nJest, postman, tailwind, etc",
+      "job_is_remote": true,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1742169600,
+      "job_posted_at_datetime_utc": "2025-03-17T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DabXhi0fBSL9qCTbVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "We are looking for a strong Front-End developer to help us support our application",
+          "The candidate must have strong technical skills on Vue.js, CSS, Unit testing, and strong problem-solving skills",
+          "How many years of experience do you require?",
+          "3 years and above, preferably 5 years",
+          "Jest, postman, tailwind, etc"
+        ],
+        "Responsibilities": [
+          "Just like developers, design, code, test, and deployment",
+          "Customer domains related projects",
+          "Most likely the developer will interact with other FE developers"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "e4ZYkxFHk1PgznhgAAAAAA==",
+      "job_title": "Developer - Information Technology",
+      "employer_name": "United Airlines",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DMswunk7F25_BeXSf2w8JVHG65s4lc7v5wfG&s=0",
+      "employer_website": "https://www.united.com",
+      "job_publisher": "United Airlines Jobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": ["FULLTIME"],
+      "job_apply_link": "https://careers.united.com/us/en/job/WHQ00024903/Developer-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "United Airlines Jobs",
+          "apply_link": "https://careers.united.com/us/en/job/WHQ00024903/Developer-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/United-Airlines,-Inc/Job/Developer-Information-Technology/-in-Chicago,IL?jid=5f2de09c404e5f59&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/developer-information-technology-at-united-airlines-4179146970?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/AKzBvi0tPcCr8J2f7jbh6yMkAIWy4tf904yDxJJxztMAehnQAZnsgw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "JSfirm.com",
+          "apply_link": "https://www.jsfirm.com/job/Other-Developer---Information-Technology/Chicago-Illinois/jobID_1554571?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/developer-information-technology_ad01c806-69f8-4910-8a5f-5e0f4991f119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Hispanic Alliance For Career Enhancement",
+          "apply_link": "https://jobs.haceonline.org/job/developer-information-technology/77194341/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=4cb705f9888543b8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Description\n\nFind your future at United! We’re reinventing what our industry looks like, and what an airline can be – from the planes we fly to the people who fly them. When you join us, you’re joining a global team of 100,000+ connected by a shared passion with a wide spectrum of experience and skills to lead the way forward.\n\nAchieving our ambitions starts with supporting yours. Evolve your career and find your next opportunity. Get the care you need with industry-leading health plans and best-in-class programs to support your emotional, physical, and financial wellness. Expand your horizons with travel across the world’s biggest route network. Connect outside your team through employee-led Business Resource Groups.\n\nCreate what’s next with us. Let’s define tomorrow together.\n\nUnited's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob overview and responsibilities\n\nThe Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery. The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions. This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments. The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction.\n• Assist in design, develop and modify software applications/systems\n• Collaborates with cross-functional teams to understand business requirements and deliver solutions\n• Provides support to the software development leads (Ex: Senior Developer)\n• Works on one or more moderate to complex projects\n• Applies security code best practices throughout development cycle\n• Contributes to software documentation and user manuals\n• Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software applications\n• Participates in code reviews to ensure code adheres to standards\n• Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions\n• Stays up to date on the latest industry trends and technology\n\nQualifications\n\nWhat’s needed to succeed (Minimum Qualifications):\n• Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field\n• 3-5 years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment\n• Strong knowledge of Microsoft .NET Framework, Microsoft .NET Core, SQL, T-SQL, NoSQL and Design Patterns\n• Experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)\n• Previous history working in an enterprise environment with experience in DevOps and CI/CD principles\n• Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting\n• Hands-on development and proficient excellence in backend API development\n• Excellent knowledge of Object-Oriented systems design and Application Development\n• Must be legally authorized to work in the United States for any employer without sponsorship\n• Successful completion of interview required to meet job qualification\n• Reliable, punctual attendance is an essential function of the position\n\nWhat will help you propel from the pack (Preferred Qualifications):\n• Airlines industry experience is a plus\n• AWS highly preferred\n• Experience with modern day Javascript, React.js is highly preferred\n\nThe base pay range for this role is $87,780.00 to $119,680.00.\nThe base salary range/hourly rate listed is dependent on job-related, non-discriminatory factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1742169600,
+      "job_posted_at_datetime_utc": "2025-03-17T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": ["health_insurance", "paid_time_off", "dental_coverage"],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De4ZYkxFHk1PgznhgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field",
+          "3-5 years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment",
+          "Strong knowledge of Microsoft .NET Framework, Microsoft .NET Core, SQL, T-SQL, NoSQL and Design Patterns",
+          "Experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)",
+          "Previous history working in an enterprise environment with experience in DevOps and CI/CD principles",
+          "Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting",
+          "Hands-on development and proficient excellence in backend API development",
+          "Excellent knowledge of Object-Oriented systems design and Application Development",
+          "Must be legally authorized to work in the United States for any employer without sponsorship",
+          "Successful completion of interview required to meet job qualification",
+          "Reliable, punctual attendance is an essential function of the position"
+        ],
+        "Benefits": [
+          "Get the care you need with industry-leading health plans and best-in-class programs to support your emotional, physical, and financial wellness",
+          "The base pay range for this role is $87,780.00 to $119,680.00",
+          "The base salary range/hourly rate listed is dependent on job-related, non-discriminatory factors such as experience, education, and skills",
+          "This position is also eligible for bonus and/or long-term incentive compensation awards",
+          "You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges"
+        ],
+        "Responsibilities": [
+          "Expand your horizons with travel across the world’s biggest route network",
+          "The Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery",
+          "The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions",
+          "This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments",
+          "The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction",
+          "Assist in design, develop and modify software applications/systems",
+          "Collaborates with cross-functional teams to understand business requirements and deliver solutions",
+          "Provides support to the software development leads (Ex: Senior Developer)",
+          "Works on one or more moderate to complex projects",
+          "Applies security code best practices throughout development cycle",
+          "Contributes to software documentation and user manuals",
+          "Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software applications",
+          "Participates in code reviews to ensure code adheres to standards",
+          "Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions",
+          "Stays up to date on the latest industry trends and technology"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "oFMmXr73Y91dNoy7AAAAAA==",
+      "job_title": "Oracle DB Developer (Chicago, IL)",
+      "employer_name": "Randstad USA",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_ah5pWH3U2cgW0AHYLvgIs-EvJ3FvqMp0Kk0&s=0",
+      "employer_website": "https://www.randstadusa.com",
+      "job_publisher": "Randstad USA",
+      "job_employment_type": "Full-time and Contractor",
+      "job_employment_types": ["FULLTIME", "CONTRACTOR", "CONTRACTOR"],
+      "job_apply_link": "https://www.randstadusa.com/jobs/4/1083842/oracle-db-developer-chicago-il_chicago/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Randstad USA",
+          "apply_link": "https://www.randstadusa.com/jobs/4/1083842/oracle-db-developer-chicago-il_chicago/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/oracle-db-developer-chicago-il-at-jobs-via-dice-4184505254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/ce03e9c5-ead4-42a8-a44d-a9b0c19bbfd2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "job summary:\nW2 only- no C2C/no C2H, no sponsorship\n\nmust be local to Chicago, IL- onsite 5 days/ week\n• We invite you to join the GIS team as an Oracle DB Developer. We are a tight-knit, supportive community passionate about delivering the best experience for our customers while remaining sensitive to their unique needs.\n• In this role, you will be using the experience you have gained throughout your career to assist in the design, development, and implementation of various complex applications. We also like for our developers to feel comfortable contributing throughout the application stack and we believe it is important that you follow best practices established by the team, including proper source code control practices and delivery of unit test cases.\n\nlocation: Chicago, Illinois\njob type: Contract\nsalary: $58.26 - 68.26 per hour\nwork hours: 8am to 5pm\neducation: Bachelors\n\nresponsibilities:\n• Oracle Development (PL/SQL)\n• Informatica experience\n• Analysis and Performance tuning of queries and scripts\n\nqualifications:\n• 5 to 10 years of Oracle Applications related development experience using PL/SQL.\n• 2 to 3 years of Informatica development experience.\n• Development and troubleshooting skills using SQL, PLSQL and Shell scripts.\n\nskills:\n• Has knowledge of key data structures and algorithms\n• Has knowledge of data modeling and understanding of different data structures and their benefits and limitations under particular use cases\n• Has experience with dealing with data at scale\n• Has experience adhering to strict audit standards\n• Has experience with relational database management systems (e.g. Oracle)\n• Has experience in different programming/scripting languages (e.g. python) and ETL tools (e.g. Informatica)\n• Experience with Data Analysis and Science will be a plus, the ideal candidate should be able to understand the business driven off the data and how it fits into the Application platform\n\nEqual Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.\n\nAt Randstad Digital, we welcome people of all abilities and want to ensure that our hiring and interview process meets the needs of all applicants. If you require a reasonable accommodation to make your application or interview experience a great one, please contact HRsupport@randstadusa.com.\n\nPay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc. In addition, Randstad Digital offers a comprehensive benefits package, including health, an incentive and recognition program, and 401K contribution (all benefits are based on eligibility).\n\nThis posting is open for thirty (30) days.",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1742169600,
+      "job_posted_at_datetime_utc": "2025-03-17T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": ["health_insurance", "dental_coverage"],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoFMmXr73Y91dNoy7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 58.26,
+      "job_max_salary": 68.26,
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "We also like for our developers to feel comfortable contributing throughout the application stack and we believe it is important that you follow best practices established by the team, including proper source code control practices and delivery of unit test cases",
+          "5 to 10 years of Oracle Applications related development experience using PL/SQL",
+          "2 to 3 years of Informatica development experience",
+          "Development and troubleshooting skills using SQL, PLSQL and Shell scripts",
+          "Has knowledge of key data structures and algorithms",
+          "Has knowledge of data modeling and understanding of different data structures and their benefits and limitations under particular use cases",
+          "Has experience with dealing with data at scale",
+          "Has experience adhering to strict audit standards",
+          "Has experience with relational database management systems (e.g. Oracle)",
+          "Has experience in different programming/scripting languages (e.g. python) and ETL tools (e.g",
+          "Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status"
+        ],
+        "Benefits": [
+          "salary: $58.26 - 68.26 per hour",
+          "Pay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc",
+          "In addition, Randstad Digital offers a comprehensive benefits package, including health, an incentive and recognition program, and 401K contribution (all benefits are based on eligibility)"
+        ],
+        "Responsibilities": [
+          "We invite you to join the GIS team as an Oracle DB Developer",
+          "In this role, you will be using the experience you have gained throughout your career to assist in the design, development, and implementation of various complex applications",
+          "work hours: 8am to 5pm",
+          "Oracle Development (PL/SQL)",
+          "Informatica experience",
+          "Analysis and Performance tuning of queries and scripts"
+        ]
+      },
+      "job_onet_soc": "15114100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "KYtOIkB8xrPlkfwjAAAAAA==",
+      "job_title": "Word Press Developers / Solution Architects",
+      "employer_name": "Jobs via Dice",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": ["FULLTIME"],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/word-press-developers-solution-architects-at-jobs-via-dice-4184501780?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/word-press-developers-solution-architects-at-jobs-via-dice-4184501780?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/07496c10-7d8f-4030-ad6b-cb310ff92e41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Tachyon Technologies, is seeking the following. Apply via Dice today!\n\nAbout Tachyon Technologies:\n\nTachyon Technologies is a Digital Transformation consulting firm that partners with businesses to implement customer-focused business transformation. Aligned with SAP's digital core, Tachyon Technologies collaborates with its clients to transform their business by leveraging existing IT investments and leading-edge digital solutions to positively impact their customers' experience. From initiation through realization, Tachyon Technologies understands what it takes for a consulting partner to be effective and strives to deliver a meaningful solution that exceeds its client's expectations.\n\nPosition: Word Press Developers / Solution Architects\n\nLocation: Physically located in US (as they may have to travel to office for meetings) Not VPN from offshore to US. Open to Offshore or Near shore for the right candidate.\n\nDuration: 6 -12 Months\n\nPosition Overview:\n\nWe are seeking a highly skilled and confident WordPress Senior Developer - Solution Architect to join our team for a critical project. This is a highly communicative role that requires both technical expertise and the ability to collaborate effectively with cross-functional teams. The ideal candidate will have a strong background in WordPress development, including backend configuration, custom component creation, and integration of existing systems. This role will involve leading the development of custom content components, ensuring seamless integration with existing systems, and providing post-launch support.\n\nKey Responsibilities:\n• Development:\n• Lead two (2) 3-week development sprints to deliver up to ten (10) custom content components for WordPress.\n• Ensure components are functional, reusable, and integrate seamlessly with existing components.\n• Write clean, efficient, and maintainable code in HTML, JavaScript, and PHP.\n• Handle the lift/shift of current integrations to ensure compatibility with the new components.\n• WordPress Backend Configuration (Authoring):\n• Configure and optimize WordPress backend files to support the new custom components.\n• Ensure the authoring experience is intuitive and efficient for content creators.\n• Integration & Rendering:\n• Develop backend components for rendering and integration with existing systems.\n• Ensure all components are optimized for performance and scalability.\n• Quality Assurance & Launch Support:\n• Support QA efforts by addressing bug fixes and ensuring the stability of the solution.\n• Provide hands-on support during production launch and for two (2) weeks post-launch to resolve any issues.\n• Communication & Collaboration:\n• Act as a technical liaison between development teams, stakeholders, and content creators.\n• Clearly communicate technical concepts to non-technical team members.\n• Provide regular updates on progress, challenges, and solutions.\n\nProject Timeline:\n\nStart Date: Mid-April\n\nEnd Date: June (with potential extension into July for post-launch support)\n\nRequired Skills & Qualifications:\n\nProven experience as a WordPress Senior Developer or Solution Architect.\n\nStrong proficiency in HTML, JavaScript, and PHP.\n\nExpertise in WordPress backend configuration and custom component development.\n\nExperience with integrating third-party systems and APIs.\n\nStrong understanding of web performance optimization and scalability.\n\nExcellent problem-solving skills and attention to detail.\n\nStrong communication skills, with the ability to confidently articulate technical concepts.\n\nExperience working in Agile/Scrum environments, particularly with development sprints.\n\nPreferred Qualifications:\n\nExperience with QA processes and bug-fixing.\n\nFamiliarity with modern front-end frameworks and libraries.\n\nKnowledge of version control systems (e.g., Git).\n\nExperience with post-launch support and troubleshooting.\n\nDisclaimer: The above statements are not intended to be a complete statement of job content, but rather act as a guide to the essential functions the employee assigned to this classification performs. Management retains the discretion to add or change the duties of the position at any time.",
+      "job_is_remote": true,
+      "job_posted_at": "22 hours ago",
+      "job_posted_at_timestamp": 1742338800,
+      "job_posted_at_datetime_utc": "2025-03-18T23:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKYtOIkB8xrPlkfwjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "We are seeking a highly skilled and confident WordPress Senior Developer - Solution Architect to join our team for a critical project",
+          "This is a highly communicative role that requires both technical expertise and the ability to collaborate effectively with cross-functional teams",
+          "The ideal candidate will have a strong background in WordPress development, including backend configuration, custom component creation, and integration of existing systems",
+          "Proven experience as a WordPress Senior Developer or Solution Architect",
+          "Strong proficiency in HTML, JavaScript, and PHP",
+          "Expertise in WordPress backend configuration and custom component development",
+          "Experience with integrating third-party systems and APIs",
+          "Strong understanding of web performance optimization and scalability",
+          "Excellent problem-solving skills and attention to detail",
+          "Strong communication skills, with the ability to confidently articulate technical concepts",
+          "Experience working in Agile/Scrum environments, particularly with development sprints",
+          "Experience with QA processes and bug-fixing",
+          "Familiarity with modern front-end frameworks and libraries",
+          "Knowledge of version control systems (e.g., Git)",
+          "Experience with post-launch support and troubleshooting"
+        ],
+        "Responsibilities": [
+          "Location: Physically located in US (as they may have to travel to office for meetings) Not VPN from offshore to US",
+          "This role will involve leading the development of custom content components, ensuring seamless integration with existing systems, and providing post-launch support",
+          "Development:",
+          "Lead two (2) 3-week development sprints to deliver up to ten (10) custom content components for WordPress",
+          "Ensure components are functional, reusable, and integrate seamlessly with existing components",
+          "Write clean, efficient, and maintainable code in HTML, JavaScript, and PHP",
+          "Handle the lift/shift of current integrations to ensure compatibility with the new components",
+          "WordPress Backend Configuration (Authoring):",
+          "Configure and optimize WordPress backend files to support the new custom components",
+          "Ensure the authoring experience is intuitive and efficient for content creators",
+          "Integration & Rendering:",
+          "Develop backend components for rendering and integration with existing systems",
+          "Ensure all components are optimized for performance and scalability",
+          "Quality Assurance & Launch Support:",
+          "Support QA efforts by addressing bug fixes and ensuring the stability of the solution",
+          "Provide hands-on support during production launch and for two (2) weeks post-launch to resolve any issues",
+          "Communication & Collaboration:",
+          "Act as a technical liaison between development teams, stakeholders, and content creators",
+          "Clearly communicate technical concepts to non-technical team members",
+          "Provide regular updates on progress, challenges, and solutions",
+          "Management retains the discretion to add or change the duties of the position at any time"
+        ]
+      },
+      "job_onet_soc": "15119900",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "RHD50GLda9IKd1P6AAAAAA==",
+      "job_title": "Front End Developer",
+      "employer_name": "Robert Half",
+      "employer_logo": null,
+      "employer_website": "https://www.roberthalf.com",
+      "job_publisher": "Robert Half",
+      "job_employment_type": null,
+      "job_employment_types": [],
+      "job_apply_link": "https://www.roberthalf.com/us/en/job/chicago-il/front-end-developer/01340-0013183304-usen?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Robert Half",
+          "apply_link": "https://www.roberthalf.com/us/en/job/chicago-il/front-end-developer/01340-0013183304-usen?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=1004b807bcfe92b4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Spectrum Communications & Consulting",
+          "apply_link": "https://www.spectruminc.com/careers/detail/?id=798094708475972677&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Predictive Sales AI",
+          "apply_link": "https://www.predictivesalesai.com/careers/detail/?id=797598687985411182&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Maestro-Health/Job/Front-End-Developer/-in-Chicago,IL?jid=9d3ccc1e85e2078b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/front-end-developer/4079495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Smart Recruiters Jobs",
+          "apply_link": "https://jobs.smartrecruiters.com/MaestroHealth/88701358-front-end-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "OPTnation",
+          "apply_link": "https://www.optnation.com/front-end-developer-job-in-chicago-il-view-jobid-36632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are in the process of expanding our team and are currently seeking a Front End Developer. This role is primarily based in Chicago, Illinois, and offers a long-term contract employment opportunity. As a Front End Developer, you'll have the chance to apply your expertise in .NET, Azure Cloud and Azure DevOps, and React with Next.js to an app development project for our dealers.Responsibilities:• Work on a dealer-specific app development project• Utilize your skills in .NET, Azure Cloud, and Azure DevOps• Apply your expertise in React and Next.js to develop and enhance the app• Ensure the app's robustness and performance by conducting thorough tests• Collaborate with the team to troubleshoot and resolve any issues that may arise• Stay updated on the latest industry trends and technologies to enhance the app's functionality• Maintain clear and accurate documentation of the development process• Participate in team meetings and contribute valuable insights• Communicate effectively with team members and stakeholders to ensure smooth project progression• Strive for continuous improvement and propose innovative solutions to enhance the app's user experience.",
+      "job_is_remote": false,
+      "job_posted_at": "5 days ago",
+      "job_posted_at_timestamp": 1741910400,
+      "job_posted_at_datetime_utc": "2025-03-14T00:00:00.000Z",
+      "job_location": "Chicago, IL",
+      "job_city": "Chicago",
+      "job_state": "Illinois",
+      "job_country": "US",
+      "job_latitude": 41.8781136,
+      "job_longitude": -87.6297982,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRHD50GLda9IKd1P6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 31.66,
+      "job_max_salary": 36.66,
+      "job_salary_period": "HOUR",
+      "job_highlights": [],
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    }
+  ]
+}
