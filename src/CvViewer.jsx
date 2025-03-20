@@ -44,7 +44,7 @@ const CvViewer = () => {
 
         <div className='flex flex-col justify-center items-center'>
           <p className='text-2xl mb-4 max-w-sm text-center'>
-            Find jobs that match your CV easily to apply
+            Easily find and apply for jobs that match your CV
           </p>
           <button
             onClick={handleClick}

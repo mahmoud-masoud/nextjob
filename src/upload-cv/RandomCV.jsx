@@ -3,12 +3,10 @@ import {
   Document,
   Page,
   Text,
-  Svg,
   View,
   StyleSheet,
   PDFDownloadLink,
   Font,
-  Path,
 } from '@react-pdf/renderer';
 
 // Register Roboto font for PDF consistency
@@ -17,42 +15,59 @@ Font.register({
   src: 'https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu4mxP.ttf',
 });
 
-// Random CV Data
-
-// PDF Styles (mirroring Tailwind as closely as possible)
+// PDF Styles (aligned with Tailwind from HTML)
 const styles = StyleSheet.create({
   page: {
-    padding: 32, // Tailwind `p-8` ≈ 32px
+    padding: 24, // Match HTML `p-6` ≈ 24px
     fontFamily: 'Roboto',
     fontSize: 12,
-    color: '#333', // Tailwind `text-gray-700`
+    color: '#374151', // Tailwind `text-gray-700`
     backgroundColor: '#fff',
+  },
+  headerContainer: {
+    flexDirection: 'row', // Side-by-side layout
+    justifyContent: 'space-between', // Space between name/position and contact
+    alignItems: 'center',
+    marginBottom: 16, // Tailwind `mb-4`
+  },
+  headerLeft: {
+    flex: 1, // Takes up available space on the left
+  },
+  headerRight: {
+    flex: 1, // Takes up available space on the right
+    textAlign: 'right', // Align contact/social to the right
   },
   header: {
     fontSize: 30, // Tailwind `text-3xl` ≈ 30px
     fontWeight: 'bold',
-    textAlign: 'center',
-    marginBottom: 8, // Tailwind `mb-2`
+    color: '#1f2937', // Tailwind `text-gray-800`
+  },
+  subHeader: {
+    fontSize: 18, // Tailwind `text-lg`
     color: '#1f2937', // Tailwind `text-gray-800`
   },
   contact: {
-    fontSize: 10, // Tailwind `text-sm` ≈ 14px, adjusted for PDF
-    textAlign: 'center',
-    marginBottom: 16, // Tailwind `mb-4`
-    color: '#4b5563', // Tailwind `text-gray-600`
+    fontSize: 14, // Tailwind `text-sm` ≈ 14px
+    color: '#000', // Tailwind `text-black`
   },
   contactItem: {
     marginBottom: 4, // Tailwind spacing
+  },
+  hr: {
+    borderBottomWidth: 1,
+    borderBottomColor: '#d1d5db', // Tailwind `border-gray-300`
+    marginVertical: 16, // Tailwind `my-4`
   },
   section: {
     marginBottom: 24, // Tailwind `mb-6`
   },
   sectionTitle: {
     fontSize: 20, // Tailwind `text-xl` ≈ 20px
-    fontWeight: 'bold',
+    fontWeight: 'semibold',
     marginBottom: 8, // Tailwind `mb-2`
-    color: '#2563eb', // Tailwind `text-black`
-    borderBottom: '1pt solid #2563eb', // Tailwind `border-b border-b-black`
+    color: '#000', // Tailwind `text-black`
+    borderBottomWidth: 1,
+    borderBottomColor: '#000', // Tailwind `border-b-black`
   },
   text: {
     marginBottom: 4, // Tailwind spacing
@@ -62,33 +77,32 @@ const styles = StyleSheet.create({
   experienceEntry: {
     marginBottom: 12, // Tailwind `mb-3`
   },
-  listItem: {
-    marginLeft: 20, // Tailwind `ml-5`
-    marginBottom: 4, // Tailwind spacing
-  },
-
-  icon: { marginRight: 4 },
 });
 
 // CV PDF Document Component
 const CVDocument = ({ data }) => (
   <Document>
     <Page size='A4' style={styles.page}>
-      <Text style={styles.header}>{data.fullName}</Text>
-      <View style={styles.contact}>
-        <Svg width={10} height={10} style={styles.icon} viewBox='0 0 24 24'>
-          <Path
-            d='M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75'
-            stroke='#4b5563'
-            strokeWidth='1.5'
-            strokeLinecap='round'
-            strokeLinejoin='round'
-          />
-        </Svg>
-        <Text style={styles.contactItem}>{data.email}</Text>
-        <Text style={styles.contactItem}> {data.phone}</Text>
-        <Text style={styles.contactItem}> {data.address}</Text>
+      <View style={styles.headerContainer}>
+        <View style={styles.headerLeft}>
+          <Text style={styles.header}>{data.name}</Text>
+          <Text style={styles.subHeader}>{data.position}</Text>
+        </View>
+        <View style={styles.headerRight}>
+          <View style={styles.contact}>
+            <Text style={styles.contactItem}>{data.contact.email}</Text>
+            <Text style={styles.contactItem}>{data.contact.phone}</Text>
+            <Text style={styles.contactItem}>
+              {data.contact.city}, {data.contact.country}
+            </Text>
+            <Text style={styles.contactItem}>{data.socialAccounts.github}</Text>
+            <Text style={styles.contactItem}>
+              {data.socialAccounts.linkedin}
+            </Text>
+          </View>
+        </View>
       </View>
+      <View style={styles.hr} />
 
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>Professional Summary</Text>
@@ -97,11 +111,10 @@ const CVDocument = ({ data }) => (
 
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>Education</Text>
-        {data.education.map((edu, index) => (
-          <Text key={index} style={styles.text}>
-            {edu.degree} - {edu.institution} ({edu.year})
-          </Text>
-        ))}
+        <Text style={styles.text}>
+          {data.education.degree} {data.education.institution} (
+          {data.education.startingYear} - {data.education.graduationYear})
+        </Text>
       </View>
 
       <View style={styles.section}>
@@ -109,7 +122,7 @@ const CVDocument = ({ data }) => (
         {data.experience.map((exp, index) => (
           <View key={index} style={styles.experienceEntry}>
             <Text style={styles.text}>
-              {exp.jobTitle} at {exp.company} ({exp.years})
+              {exp.position} at {exp.company} ({exp.duration})
             </Text>
             <Text style={styles.text}>{exp.description}</Text>
           </View>
@@ -118,35 +131,37 @@ const CVDocument = ({ data }) => (
 
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>Skills</Text>
-        {data.skills.map((skill, index) => (
-          <Text key={index} style={styles.listItem}>
-            • {skill}
-          </Text>
-        ))}
+        <Text style={styles.text}>{data.skills}</Text>
       </View>
 
       <View style={styles.section}>
-        <Text style={styles.sectionTitle}>Certifications</Text>
-        {data.certifications.map((cert, index) => (
-          <Text key={index} style={styles.listItem}>
-            • {cert}
-          </Text>
-        ))}
+        <Text style={styles.sectionTitle}>Languages</Text>
+        <Text style={styles.text}>{data.languages}</Text>
       </View>
     </Page>
   </Document>
 );
 
+// HTML Component
 const RandomCV = ({ data }) => {
+  console.log(data);
   return (
     <div className='min-h-screen flex flex-col items-center justify-center p-6'>
       <div className='w-full max-w-2xl bg-white p-8 rounded-lg shadow-lg mb-6'>
-        <h1 className='text-3xl font-bold text-gray-800 mb-2 text-center'>
-          {data.name}
-        </h1>
-        <div className='text-gray-600 mb-4 text-sm text-center'>
-          <p className='text-black'>{data.email}</p>
-          <p className='text-black'>{data.phone}</p>
+        <div className='flex justify-between items-center mb-4'>
+          <div>
+            <h1 className='text-3xl font-bold text-gray-800'>{data.name}</h1>
+            <h2 className='text-lg text-gray-800'>{data.position}</h2>
+          </div>
+          <div className='text-black text-sm text-right'>
+            <p>{data.contact.email}</p>
+            <p>{data.contact.phone}</p>
+            <p>
+              {data.contact.city}, {data.contact.country}
+            </p>
+            <p>{data.socialAccounts.github}</p>
+            <p>{data.socialAccounts.linkedin}</p>
+          </div>
         </div>
         <hr className='my-4 border-gray-300' />
 
@@ -157,20 +172,14 @@ const RandomCV = ({ data }) => {
           <p className='text-gray-700'>{data.summary}</p>
         </section>
 
-        <section className='mb-6 text-black'>
-          <h2
-            className='text-xl font-semibold
-           text-black mb-2 border-b border-b-black'
-          >
+        <section className='mb-6'>
+          <h2 className='text-xl font-semibold text-black mb-2 border-b border-b-black'>
             Education
           </h2>
-
-          <div>
-            <span>{data.education.degree}</span>
-            <span> {data.education.institution}</span>
-            <span>{data.education.startingYear}</span>
-            <span>{data.education.graduationYear}</span>
-          </div>
+          <p className='text-gray-700'>
+            {data.education.degree} {data.education.institution} (
+            {data.education.startingYear} - {data.education.graduationYear})
+          </p>
         </section>
 
         <section className='mb-6'>
@@ -188,19 +197,17 @@ const RandomCV = ({ data }) => {
         </section>
 
         <section className='mb-6'>
-          <h2 className='text-xl text-black font-semibold  mb-2 border-b border-b-black'>
+          <h2 className='text-xl font-semibold text-black mb-2 border-b border-b-black'>
             Skills
           </h2>
-
-          <p className='text-black'>{data.skills}</p>
+          <p className='text-gray-700'>{data.skills}</p>
         </section>
 
         <section>
           <h2 className='text-xl font-semibold text-black mb-2 border-b border-b-black'>
             Languages
           </h2>
-
-          <p className='text-black'>{data.languages}</p>
+          <p className='text-gray-700'>{data.languages}</p>
         </section>
       </div>
 
@@ -208,7 +215,7 @@ const RandomCV = ({ data }) => {
         <PDFDownloadLink
           document={<CVDocument data={data} />}
           fileName={`${data.name}_CV.pdf`}
-          className='px-6 py-2 rounded-md text-white hover:bg-primary border transition-colors'
+          className='px-6 py-2 rounded-md text-white  hover:bg-primary border transition-colors'
         >
           {({ loading }) => (loading ? 'Generating PDF...' : 'Download as PDF')}
         </PDFDownloadLink>
