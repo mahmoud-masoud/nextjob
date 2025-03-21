@@ -81,7 +81,10 @@ const Hero = () => {
             >
               Create Your CV <ArrowRight size={18} className='ml-2' />
             </Link>
-            <Link to={'/jobs'} className='border py-2 px-6 rounded-md'>
+            <Link
+              to={'/jobs'}
+              className='border text-center py-2 px-6 rounded-md'
+            >
               Explore Jobs
             </Link>
           </div>

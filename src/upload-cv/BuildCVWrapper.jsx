@@ -1,28 +1,26 @@
 import { useState } from 'react';
 import GenerateCV from './GenerateCV';
 import UploadCV from './UploadCV';
-import { Link } from 'react-router';
 
 const BuildCVWrapper = () => {
   const [isCvUploaded, setIsCvUploaded] = useState(false);
 
   return (
-    <main>
-      <div className='container mx-auto flex flex-col items-center'>
-        <h1 className='text-3xl font-semibold text-center pt-32 pb-20'>
-          Upload your CV or Generate one with AI ✨
-        </h1>
+    <div className='container mx-auto flex flex-col items-center'>
+      <h1 className='text-3xl font-semibold text-center pt-32 pb-20'>
+        Upload your CV or Generate one with AI ✨
+      </h1>
 
-        <div
-          className={`flex justify-between h-96 w-4xl ${
-            isCvUploaded && 'justify-center'
-          }`}
-        >
-          <UploadCV setIsCvUploaded={setIsCvUploaded} />
-          {!isCvUploaded && <GenerateCV />}
-        </div>
+      <div
+        className={` flex flex-col gap-10 md:flex-row justify-between items-center w-4xl ${
+          isCvUploaded && 'justify-center'
+        }`}
+      >
+        <UploadCV setIsCvUploaded={setIsCvUploaded} />
+        {!isCvUploaded && <GenerateCV />}
+      </div>
 
-        {/* <div className='flex-col flex items-center gap-10'>
+      {/* <div className='flex-col flex items-center gap-10'>
           <div className='flex gap-10 items-center'>
             <AISuccessMessage />
             <div>
@@ -33,8 +31,7 @@ const BuildCVWrapper = () => {
             Go to recemended jobs
           </Link>
         </div> */}
-      </div>
-    </main>
+    </div>
   );
 };
 

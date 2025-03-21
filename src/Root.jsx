@@ -15,7 +15,7 @@ import { Outlet, Link } from 'react-router';
 const Root = () => {
   return (
     <div>
-      <header className='bg-blue-400/10 backdrop-blur-2xl sticky top-0 z-50'>
+      <header className='bg-blue-400/10 backdrop-blur-2xl sticky top-0 z-50 px-4 '>
         <div className='container mx-auto flex justify-between items-center'>
           <h3 className='text-2xl font-semibold'>
             <Link to={'/'}>
@@ -23,13 +23,6 @@ const Root = () => {
             </Link>
           </h3>
           <div className='flex justify-center items-center gap-10'>
-            <Link
-              to={'/'}
-              className='flex gap-2 items-center py-4 text-lg
-             text-white hover:text-emerald-400 duration-200'
-            >
-              <span className=''>Home</span>
-            </Link>
             <Link
               to={'/choose-method'}
               className='flex gap-2 items-center py-4 text-lg text-white
@@ -54,9 +47,11 @@ const Root = () => {
         <div className='max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-6'>
           {/* Brand */}
           <div className='text-center md:text-left'>
-            <h3 className='text-2xl font-semibold mb-4'>
-              Next <span className='text-primary'>Job</span>
-            </h3>
+            <Link to={'/'}>
+              <h3 className='text-2xl font-semibold mb-4'>
+                Next <span className='text-primary'>Job</span>
+              </h3>
+            </Link>
             <p className='text-gray-200 text-sm max-w-sm'>
               AI-powered CV builder and job board helping professionals showcase
               their skills and find their dream jobs.
@@ -64,16 +59,23 @@ const Root = () => {
           </div>
 
           {/* Links */}
-          <div className='flex flex-wrap shrink-0 justify-center gap-4 md:gap-6'>
-            {['Home', 'Jobs', 'CV Builder'].map((link) => (
-              <a
-                key={link}
-                href='#'
-                className='text-gray-200 duration-200 hover:text-primary'
+          <div className='container mx-auto flex justify-center items-center'>
+            <div className='flex justify-center items-center gap-10'>
+              <Link
+                to={'/choose-method'}
+                className='flex gap-2 items-center py-4 text-lg text-white
+             hover:text-emerald-400 duration-200'
               >
-                {link}
-              </a>
-            ))}
+                <span className=''>Build CV</span>
+              </Link>
+              <Link
+                to={'/jobs'}
+                className='flex gap-2 items-center py-4 text-lg text-white
+             hover:text-emerald-400 duration-200'
+              >
+                <span className=''>Jobs Board</span>
+              </Link>
+            </div>
           </div>
 
           {/* Social Icons */}

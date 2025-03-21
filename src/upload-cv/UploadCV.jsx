@@ -69,7 +69,7 @@ const UploadCV = ({ setIsCvUploaded }) => {
           className={`group bg-blue-400/15
            rounded-3xl flex flex-col justify-center items-center
            p-8 cursor-pointer border border-border-color hover:border-primary
-            duration-300 h-full aspect-square
+            duration-300 max-h-96 aspect-square
           `}
         >
           <input {...getInputProps()} />

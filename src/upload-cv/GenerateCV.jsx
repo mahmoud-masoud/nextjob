@@ -4,8 +4,9 @@ import { Link } from 'react-router';
 const GenerateCV = () => {
   return (
     <div
-      className='flex flex-col  h-full aspect-square
-     items-center justify-center gap-4 bg-blue-400/15 border border-border-color text-center
+      className='flex flex-col  max-h-96 aspect-square w-fit
+     items-center justify-center gap-4 bg-blue-400/15
+      border border-border-color text-center
        rounded-3xl hover:border-primary duration-300
 p-8
      '
