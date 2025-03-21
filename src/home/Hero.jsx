@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { ArrowRight, FileText, Briefcase } from 'lucide-react';
 import { Link } from 'react-router';
+import hero from '@/assets/hero.jpg';
 
 const Hero = () => {
   const heroRef = useRef(null);
@@ -105,9 +106,9 @@ const Hero = () => {
           <div className='relative preserve-3d p-2 md:p-4 glass-dark rounded-2xl shadow-xl transform rotate-y-5 rotate-x-2 animate-float-slow'>
             <div className='absolute inset-0 bg-gradient-to-tr from-emerald-500/20 to-transparent opacity-50 rounded-2xl' />
             <img
-              src='https://placehold.co/600x400/1a1a2e/10b981?text=CV+Generator+Preview'
+              src={hero}
               alt='CV Generator Preview'
-              className='rounded-lg shadow-lg transform preserve-3d'
+              className='rounded-lg shadow-lg transform preserve-3d filter brightness-90'
             />
 
             <div className='absolute -bottom-6 -right-6 glass-dark p-4 rounded-xl shadow-lg transform translate-z-8 animate-pulse-slow'>

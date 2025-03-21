@@ -1,5 +1,6 @@
 import { twMerge } from 'tailwind-merge';
 const Badge = ({ number, className }) => {
+  if (!number) return;
   return (
     <div
       className={twMerge(
