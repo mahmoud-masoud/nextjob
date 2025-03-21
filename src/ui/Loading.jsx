@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Sparkles } from 'lucide-react';
 
-export default function LoadingIndicator() {
+export default function LoadingIndicator({ msg }) {
   const [sparkles, setSparkles] = useState([]);
 
   // Generate sparkles
@@ -123,7 +123,9 @@ export default function LoadingIndicator() {
 
       {/* Static loading text - no animation */}
       <div className='absolute -bottom-8 text-center'>
-        <p className='text-purple-400  text-sm font-medium'>Creating Your CV</p>
+        <p className='text-purple-400  text-sm font-medium'>
+          {msg ? msg : 'Creating Your CV'}
+        </p>
       </div>
     </div>
   );

@@ -40,7 +40,7 @@ const Root = () => {
           </div>
         </div>
       </header>
-      <main>
+      <main className='min-h-screen'>
         <Outlet />
       </main>
       <footer className='bg-gradient-to-bl mt-20 from-blue-950 to-sky-900 text-white py-8'>

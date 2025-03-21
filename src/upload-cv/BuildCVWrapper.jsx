@@ -12,7 +12,7 @@ const BuildCVWrapper = () => {
       </h1>
 
       <div
-        className={` flex flex-col gap-10 md:flex-row justify-between items-center w-4xl ${
+        className={` flex flex-col gap-10 md:flex-row justify-between items-center max-w-4xl ${
           isCvUploaded && 'justify-center'
         }`}
       >
